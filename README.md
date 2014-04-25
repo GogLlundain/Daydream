@@ -13,4 +13,9 @@ Future features:
 * Weather updates
 * Dynaic background, reacts to time of day or the weather?
 
+Devices tested:
+* HTC One X (4.2.2)
+
+
+
 
